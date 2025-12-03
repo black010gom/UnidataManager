@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+*.log
+
+# Virtual Environment
+p311venc2025/
+env/
+venv/
+.venv/
+
+# Kivy
+.kivy/
+.kivy_cache/
+.kivy_logs/
+*.db
+*.sqlite3
+
+# C/C++ build artifacts
+*.dll
+*.exe
+*.obj
+*.o
+*.out
+*.a
+*.lib
+*.bin
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Fonts and binaries (optional: keep if needed)
+*.ttf
+*.otf
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
